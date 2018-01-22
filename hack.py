@@ -1,4 +1,4 @@
-#Authors: Vinay C. Poodari, Dixon Hofflet, Justin Collet, Andrew Blair 
+#Authors: Vinay C. Poodari, Dixon Hofflet, Justin Hofflet, Andrew Blair 
 #This program was designed for the parsing of a BRCA data held in a TSV file and plot the data into an easy to understand format. 
 #This project is for the MLH 2018 Hackathon held at UCSC.
 #run with  python hack.py BRCA_variant_data\ \(1\).tsv "NM_007294.3:c.-192T>C" 1 uses sys.argv, "Varient name" #gene number
